@@ -122,7 +122,6 @@ class StyleChooserController implements ContainerInjectableInterface
             $session->set("flashmessage", "Using the style '$key'.");
             $session->set(self::$key, $key);
         }
-
         return $response->redirect("style");
     }
 

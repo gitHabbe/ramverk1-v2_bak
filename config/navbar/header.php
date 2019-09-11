@@ -34,6 +34,11 @@ return [
             ],
         ],
         [
+            "text" => "IP",
+            "url" => "validate",
+            "title" => "Validate IP.",
+        ],
+        [
             "text" => "Om",
             "url" => "om",
             "title" => "Om denna webbplats.",

@@ -1,3 +1,4 @@
 #### Kursrepo
 
-Skriv något kort om kursen och länka till [kursens hemsida på dbwebb.se](XXX) och till [kursrepot på GitHub](XXX).
+Materialet för denna kurs kan hittas på [denna GitHub länk](https://github.com/dbwebb-se/ramverk1).
+Kursen är kompilerad av lärarna på [dbwebb.se](https://dbwebb.se)
